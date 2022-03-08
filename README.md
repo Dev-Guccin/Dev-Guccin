@@ -9,11 +9,12 @@
 <a href="https://mqtt.org/" target="_blank"><img src="https://img.shields.io/badge/MQTT-261C29?style=flat-square&logoColor=white"/></a>
 
 ### Infra
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
 
 ### Frontend
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>

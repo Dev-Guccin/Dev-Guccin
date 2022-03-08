@@ -6,7 +6,7 @@
 <a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
-<a href="https://mqtt.org/" target="_blank"><img src="https://img.shields.io/badge/MQTT-261C29?style=flat-square&logoColor=white"/></a>
+<a href="https://mqtt.org/" target="_blank"><img src="https://img.shields.io/badge/MQTT-311C87?style=flat-square&logoColor=white"/></a>
 
 ### Infra
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>

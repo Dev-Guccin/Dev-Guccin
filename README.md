@@ -17,8 +17,8 @@
 <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
 
 ### Frontend
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-071D49?style=flat-square&logo=React&logoColor=white"/></a>
+<!-- <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
+<!-- <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-071D49?style=flat-square&logo=React&logoColor=white"/></a> -->
 <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 
